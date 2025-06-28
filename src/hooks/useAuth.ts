@@ -3,7 +3,7 @@ import { User } from '../types/Auth';
 
 const VALID_CREDENTIALS = {
   username: 'maharshi',
-  password: 'Myriad7yr'
+  password: 'trigun@932'
 };
 
 export function useAuth() {

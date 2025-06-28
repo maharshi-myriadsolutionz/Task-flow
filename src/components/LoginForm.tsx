@@ -135,8 +135,8 @@ export const LoginForm: React.FC<LoginFormProps> = ({ onLogin }) => {
           <div className="mt-4 md:mt-6 p-3 md:p-4 bg-blue-50 border border-blue-200 rounded-lg">
             <h4 className="text-sm font-medium text-blue-800 mb-2">Demo Credentials</h4>
             <div className="text-xs md:text-sm text-blue-700 space-y-1">
-              <div><strong>Username:</strong> maharshi</div>
-              <div><strong>Password:</strong> Myriad7yr</div>
+              <div><strong>Username:</strong> maharshi </div>
+              <div><strong>Password:</strong> trigun@932 </div>
             </div>
           </div>
         </div>
